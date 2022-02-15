@@ -70,18 +70,18 @@ Glossary
 
 
 
-Branch - 
-Clone - 
-Commit - 
-Fetch -
-GIT - 
-Github -
-Merge -
-Merge Conflict -
-Push -
-Pull -
-Remote - 
-Repository -
+1. Branch - 
+2. Clone - 
+3. Commit - 
+4. Fetch -
+5. Git - 
+6. Github -
+7. Merge -
+8. Merge Conflict -
+9. Push -
+10. Pull -
+11. Remote - 
+12. Repository -
 
 
 
