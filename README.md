@@ -75,10 +75,29 @@ Now all the new changes are part of the main branch.
 
 #2 Git
 
-Github is an interface for the commandline tool Git
+Github is an interface for the commandline tool Git. 
 
+#Cloning a remote repository -  **Mac**
 
+1. Go to the main page of the repository you want to clone
+2. Copy the URL from the top. URL form should be github.com/YourUsername/YourRepoName/
+3. Open your terminal 
+4. First you wanna install git, If you have Home Brew installed, the command is -brew install git
+5. Now that git is installed, clone the repository. Navigate to the desired location and enter the command 
+- git clone github.com/YourUsername/YourRepoName/
+6. Now the repository should be cloned on to your machine
 
+#Checking Different Versions 
+ 
+ To see the other branches that were created : 
+  Use the command - git branch 
+
+#Checkout the most recent commits on current branch
+
+ To see the latest commit on your current branch use the command 
+  - git show 
+ 
+ Git is a really useful tool that allows developers to seamlessly collaborate on a single project any where any time 
 
 #3 Webstorm
 
@@ -131,21 +150,21 @@ You have succesfully shared your project to Github using Git.
 
 3. Commit - A commit is any saved changes made to a file or files. Commits allow you to keep track of who made commits and when. Commits contain brief messages describing the changes made.
 
-4. Fetch - When using git locally, you may want to get the most recent changes from the remote repository. You may do so using Fetch. 
+4. Fetch - When using git locally, you may want to get the most recent changes from the remote repository. You may do so using Fetch. Fetch allows you to actually review the changes that were made before commiting locally.
 
-5. Git - Free opensource version control system. I 
+5. Git - Free opensource version control system. 
 
-6. Github -  GitHub is an interface built off Git.
+6. Github -  GitHub is a user interface built off Git.
 
-7. Merge - Merging allows you to bring your changes into your main branch once you are ready 
+7. Merge - Merging allows you to bring your changes from one branch into another branch once you are ready to do so. 
 
-8. Merge Conflict - Merge conflicts occur when hit cannot distinguish which changes to keep and which to discard 
+8. Merge Conflict - Merge conflicts occur when Git cannot distinguish which changes to keep and which to discard 
 
 9. Push - Pushing allows you to transfer your local changes to a remote repository. 
 
 10. Pull - Pulling allows you to bring changes from a remote repository and update those changes in your local repository. 
 
-11. Remote - Remote is a command that allows you to manage connections to other repositories. 
+11. Remote - A version of your repository that resides on a server. Usually Github.com You can sync the local and remote repositories.
 
 12. Repository - Repositories store all the necessary components of a single project. 
 
