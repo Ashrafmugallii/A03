@@ -150,6 +150,17 @@ You have succesfully shared your project to Github using Git.
 
 14. Repository -
 
+Fetch - When using git locally, you may want to get the most recent changes from the remote repository. You may do so using Fetch. 
+GIT - Free opensource version control system. I 
+Github - GitHub is an interface built off Git. 
+Merge -  Merging allows you to bring your changes into your main branch once you are ready 
+Merge Conflict -  Merge conflicts occur when hit cannot distinguish which changes to keep and which to discard 
+Push - Pushing allows you to transfer your local changes to a remote repository. 
+Pull - Pulling allows you to bring changes from a remote repository and update those changes in your local repository. 
+Remote -  Remote is a command that allows you to manage connections to other repositories. 
+Repository -  Repositories store all the necessary components of a single project. 
+
+
 
 
 Source
