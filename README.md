@@ -112,29 +112,43 @@ Now that you have made your first HTML webpage, you are now ready to use the Ver
 8. Now on the left side you may select all the files you need to commit by checking the box next to the ones you want to commit.
 9. Now that you have chosen your files, Write a short description of the changes you have made. 
 10. Click on Commit
-11. Now the changes have been commited
+11. Now the changes have been commited and you are ready to share the project to Github
 
 Sharing the project to Github
 
+1. In the Git menu in the Webstorm IDE, Scroll down and choose Github > share project on Github. You will have to sign into your Github account. 
+2. A box will appear, You can enter a description of the repository, then click share. 
 
-
+You have succesfully shared your project to Github using Git.
 
 
 
 #Glossary
 
-1. Branch - 
-2. Clone - 
-3. Commit - 
-4. Fetch -
-5. Git - 
-6. Github -
-7. Merge -
-8. Merge Conflict -
-9. Push -
-10. Pull -
-11. Remote - 
-12. Repository -
+1. Branch - Branches allow you to make changes to a copy of the main branch without affecting the main branch itself.
+
+3. Clone -  A clone of a repository is just a copy of the repository stored locally on your machine where you can make edits without being online. You may push your local repository to the remote one.
+
+
+5. Commit - A commit is any saved changes made to a file or files. Commits allow you to keep track of who made commits and when. Commits contain brief messages describing the changes made.
+
+6. Fetch -
+
+7. Git - 
+
+8. Github -
+
+9. Merge -
+
+10. Merge Conflict -
+
+11. Push -
+
+12. Pull -
+
+13. Remote - 
+
+14. Repository -
 
 
 
