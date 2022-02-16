@@ -132,34 +132,23 @@ You have succesfully shared your project to Github using Git.
 
 5. Commit - A commit is any saved changes made to a file or files. Commits allow you to keep track of who made commits and when. Commits contain brief messages describing the changes made.
 
-6. Fetch -
+6. Fetch - When using git locally, you may want to get the most recent changes from the remote repository. You may do so using Fetch. 
 
-7. Git - 
+7. Git - Free opensource version control system. I 
 
-8. Github -
+8. Github -  GitHub is an interface built off Git.
 
-9. Merge -
+9. Merge - Merging allows you to bring your changes into your main branch once you are ready 
 
-10. Merge Conflict -
+10. Merge Conflict - Merge conflicts occur when hit cannot distinguish which changes to keep and which to discard 
 
-11. Push -
+11. Push - Pushing allows you to transfer your local changes to a remote repository. 
 
-12. Pull -
+12. Pull - Pulling allows you to bring changes from a remote repository and update those changes in your local repository. 
 
-13. Remote - 
+13. Remote - Remote is a command that allows you to manage connections to other repositories. 
 
-14. Repository -
-
-Fetch - When using git locally, you may want to get the most recent changes from the remote repository. You may do so using Fetch. 
-GIT - Free opensource version control system. I 
-Github - GitHub is an interface built off Git. 
-Merge -  Merging allows you to bring your changes into your main branch once you are ready 
-Merge Conflict -  Merge conflicts occur when hit cannot distinguish which changes to keep and which to discard 
-Push - Pushing allows you to transfer your local changes to a remote repository. 
-Pull - Pulling allows you to bring changes from a remote repository and update those changes in your local repository. 
-Remote -  Remote is a command that allows you to manage connections to other repositories. 
-Repository -  Repositories store all the necessary components of a single project. 
-
+14. Repository - Repositories store all the necessary components of a single project. 
 
 
 
