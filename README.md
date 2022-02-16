@@ -127,34 +127,34 @@ You have succesfully shared your project to Github using Git.
 
 1. Branch - Branches allow you to make changes to a copy of the main branch without affecting the main branch itself.
 
-3. Clone -  A clone of a repository is just a copy of the repository stored locally on your machine where you can make edits without being online. You may push your local repository to the remote one.
+2. Clone -  A clone of a repository is just a copy of the repository stored locally on your machine where you can make edits without being online. You may push your local repository to the remote one.
 
+3. Commit - A commit is any saved changes made to a file or files. Commits allow you to keep track of who made commits and when. Commits contain brief messages describing the changes made.
 
-5. Commit - A commit is any saved changes made to a file or files. Commits allow you to keep track of who made commits and when. Commits contain brief messages describing the changes made.
+4. Fetch - When using git locally, you may want to get the most recent changes from the remote repository. You may do so using Fetch. 
 
-6. Fetch - When using git locally, you may want to get the most recent changes from the remote repository. You may do so using Fetch. 
+5. Git - Free opensource version control system. I 
 
-7. Git - Free opensource version control system. I 
+6. Github -  GitHub is an interface built off Git.
 
-8. Github -  GitHub is an interface built off Git.
+7. Merge - Merging allows you to bring your changes into your main branch once you are ready 
 
-9. Merge - Merging allows you to bring your changes into your main branch once you are ready 
+8. Merge Conflict - Merge conflicts occur when hit cannot distinguish which changes to keep and which to discard 
 
-10. Merge Conflict - Merge conflicts occur when hit cannot distinguish which changes to keep and which to discard 
+9. Push - Pushing allows you to transfer your local changes to a remote repository. 
 
-11. Push - Pushing allows you to transfer your local changes to a remote repository. 
+10. Pull - Pulling allows you to bring changes from a remote repository and update those changes in your local repository. 
 
-12. Pull - Pulling allows you to bring changes from a remote repository and update those changes in your local repository. 
+11. Remote - Remote is a command that allows you to manage connections to other repositories. 
 
-13. Remote - Remote is a command that allows you to manage connections to other repositories. 
-
-14. Repository - Repositories store all the necessary components of a single project. 
+12. Repository - Repositories store all the necessary components of a single project. 
 
 
 
 Source
 
-https://docs.github.com/en/get-started/quickstart/hello-world 
-https://git-scm.com/docs/gittutorial 
+1. https://docs.github.com/en/get-started/quickstart/hello-world 
+2. https://git-scm.com/docs/gittutorial 
+
 
 
