@@ -49,7 +49,7 @@ You may either commit changes using the command line, or you may use Webstorm’
 
 #Opening a pull request
 
-Pull requests your team members to review your changes before merging into the main branch. You may open a pull request as soon as you make your first commit. Since you have already created a new branch and made edits to it, You are ready to open a pull request.
+Pull requests are for your team members to review your changes and make a decision before merging into the main branch. You may open a pull request as soon as you make your first commit. Since you have already created a new branch and made edits to it, You are ready to open a pull request.
 
 To Open a pull request
 
@@ -75,12 +75,46 @@ Now all the new changes are part of the main branch.
 
 #2 Git
 
-Github is an interface for the commindline tool Git
+Github is an interface for the commandline tool Git
 
 
 
 
 #3 Webstorm
+
+Webstorm is an Integrated Development Environment (IDE)
+Webstorm provides built in version control tools
+
+Create an HTML project on Webstorm 
+
+1. Click on create new project
+2. Click on empty project
+3. Give your project a name, and you may also choose a location 
+4. Click create you should see your project files apear to the left of the IDE
+5. Right click on your project folder, it should have the name of your project
+6. Go to New > HTML file
+7. Give your HTML file a name, you may also pick the version of HTML you would like to use, In this case choose HTML5
+8. Now you are ready to edit your first webpage
+9. On the top right side of the IDE, you can see that there is a menu that allows you to view your webpage in various web browsers. 
+10. Click on Chrome, FireFox, Safari, etc. this will display your webpage on the web.
+
+Now that you have made your first HTML webpage, you are now ready to use the Version Control feature integrated in Webstorm
+
+** NOTE : I am using Mac OS so this may be different for other operating systems **
+
+1. On the top menu in Webstorm click the VCS menu
+2. Go down to the option "Create Git Repository"
+3. This will open the file explorer
+4. click your project folder and click Open
+5. The VCS option on the menu bar changes to "Git"
+6. Notice the files in your Project's folder turned red, this is indicating that your files have not been commited.
+7. Go to the Git drop down menu and click commit changes, the shortcut for this on Mac is Control + K. 
+8. Now on the left side you may select all the files you need to commit by checking the box next to the ones you want to commit.
+9. Now that you have chosen your files, Write a short description of the changes you have made. 
+10. Click on Commit
+11. Now the changes have been commited
+
+Sharing the project to Github
 
 
 
